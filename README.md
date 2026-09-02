@@ -28,17 +28,6 @@ Web sitesi; firmanın sunduğu Kayseri, Sivas, Kırşehir, Nevşehir, Yozgat öz
 *   **Dil / Teknolojiler:** PHP, HTML5, CSS3, JavaScript
 *   **SEO:** Arama motorlarında "Kayseri cenaze nakil", "Özel cenaze hizmetleri" gibi kelimelerde optimizasyon.
 
-## 💻 Kurulum ve Geliştirme
-
-Projeyi yerel ortamınızda (localhost) çalıştırmak veya geliştirmek için:
-
-1.  Bu depoyu bilgisayarınıza klonlayın:
-    ```bash
-    git clone https://github.com
-    ```
-2.  `wp-content` klasöründeki güncel tema ve eklentileri kendi yerel WordPress kurulumunuza aktarın.
-3.  Veritabanı bağlantı ayarlarını `wp-config.php` üzerinden yapılandırın.
-
 ## 📄 Lisans
 
 Bu proje altındaki kaynak kodlar ve tasarım dosyalarının telif hakları korunmaktadır. Önceki adımda seçtiğiniz lisansa bağlı olarak kullanıma uygundur.
